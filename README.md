@@ -56,7 +56,16 @@ python password_checker.py
 
 Enter a password to check: Pass123
 
-Password Strength: Moderate
+===== Password Security Report =====
+
+Password Strength: Weak
+Security Score: 4/10
+
+Suggestions to improve password:
+
+Add uppercase letters
+
+Use special characters (@#$%^&*)
 
 
 ## Disclaimer
